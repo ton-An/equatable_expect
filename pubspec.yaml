@@ -1,6 +1,6 @@
 name: equatable_expect
 description: This is a simple package which helps you debug while writing tests. It pinpoints what is wrong with your data when comparing Equatable objects
-version: 0.1.0
+version: 0.1.1
 homepage: https://github.com/ton-An/equatable_expect
 
 environment:
